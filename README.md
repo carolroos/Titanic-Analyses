@@ -1,2 +1,4 @@
 # Titanic-Analyses
-Uma pequena amostra de analise dos dados do Titanic. O dados foram buscados do Kaggel.
+O dados foram buscados do Kaggel.
+
+Uma análise de dados realizado no Jupyter Notebook com dados sobre o Titanic.
